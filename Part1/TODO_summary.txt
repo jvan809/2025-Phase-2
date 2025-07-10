@@ -1,0 +1,8 @@
+A summary (using a Markdown cell in each notebook you create, `.txt`, `.pdf`, or in another readable format)
+    - Think of this as a TL;DR for your notebooks.
+    - While there is no word limit, we may penalise summaries that are 
+        more than 500 words long 
+    (we have a lot of submissions to get through, so the more concise you can be, the better!) 
+        or do not provide a sufficient overview of everything you have done. 
+    A key skill to master in data science is your ability to communicate technical concepts clearly and concisely.
+    
